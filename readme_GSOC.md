@@ -52,3 +52,5 @@ At the end, a statistics of the tasks on each server is stored in the logs, summ
 * [Docker Joomla Automated Testing](https://github.com/joomla-projects/docker-joomla-automated-testing/pull/2/commits)
 * [Joomla Testing Robo 1](https://github.com/joomla-projects/joomla-testing-robo/pull/10/commits)
 * [Joomla Testing Robo 2](https://github.com/joomla-projects/joomla-testing-robo/pull/12/commits)
+
+All the PRs have been accepted and merged into the public repositories. The project is ready to use and will be integrated with Travis for Joomla extensions.
