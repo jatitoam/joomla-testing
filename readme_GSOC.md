@@ -53,4 +53,4 @@ At the end, a statistics of the tasks on each server is stored in the logs, summ
 * [Joomla Testing Robo 1](https://github.com/joomla-projects/joomla-testing-robo/pull/10/commits)
 * [Joomla Testing Robo 2](https://github.com/joomla-projects/joomla-testing-robo/pull/12/commits)
 
-All the PRs have been accepted and merged into the public repositories. The project is ready to use and will be integrated with Travis for Joomla extensions.
+All the PRs have been accepted and merged into the public repositories. The project is ready to use and will be integrated with Travis for Joomla extensions. The only dependency needed for each extension is the yml file with the required tests and working acceptance tests, all being described in the documentation listed above.
